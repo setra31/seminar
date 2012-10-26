@@ -1,4 +1,4 @@
-
+//動作確認用
 public class Main {
 	public static void main(String[] args) {
 		// 'h'を持ったCharDisplayのインスタンスを１個作る。
